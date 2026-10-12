@@ -27,15 +27,10 @@ The breadboard build provided practical experience with motor-driver wiring, pow
 
 The schematic was drawn in Proteus to document the circuit connections.
 
-[View the exported schematic](H-Bridge-DC-Motor-Driver.bmp)
+![View the exported schematic](H-Bridge-DC-Motor-Driver.bmp)
 
 To inspect the editable schematic, download the repository and open `H-Bridge-Motor-Driver.pdsprj` in Proteus.
 
-## Hardware Testing
-
-The physical breadboard circuit was tested and operated successfully. This confirmed the basic operation of the assembled motor-driver circuit.
-
-The test was a functional check. It does not establish maximum current capability, efficiency, thermal performance, or long-term reliability.
 
 ## Repository Contents
 
